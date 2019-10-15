@@ -3,9 +3,15 @@
   flex-direction: column;
   justify-content: center;
   background-image: url('./background.jpg');
+
   background-size: cover;
   background-repeat: no-repeat;
+
   height: 25rem;
+}
+
+.SearchBar background-image {
+  opacity: 0.6;
 }
 
 .SearchBar-sort-options ul {
