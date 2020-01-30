@@ -1,3 +1,7 @@
+Restaurant Search Engine used ReactJS, followed Codeacademy course.
+
+Demo: https://nikpalyi.github.io/restaurant-search-react-app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
