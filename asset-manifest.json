@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/restaurant-search-react-app/static/css/main.9fc57bfa.chunk.css",
+    "main.js": "/restaurant-search-react-app/static/js/main.a4e7370c.chunk.js",
+    "main.js.map": "/restaurant-search-react-app/static/js/main.a4e7370c.chunk.js.map",
+    "runtime~main.js": "/restaurant-search-react-app/static/js/runtime~main.244ec87b.js",
+    "runtime~main.js.map": "/restaurant-search-react-app/static/js/runtime~main.244ec87b.js.map",
+    "static/js/2.f9a948ae.chunk.js": "/restaurant-search-react-app/static/js/2.f9a948ae.chunk.js",
+    "static/js/2.f9a948ae.chunk.js.map": "/restaurant-search-react-app/static/js/2.f9a948ae.chunk.js.map",
+    "index.html": "/restaurant-search-react-app/index.html",
+    "precache-manifest.10c838a509de7292fbf610188812b676.js": "/restaurant-search-react-app/precache-manifest.10c838a509de7292fbf610188812b676.js",
+    "service-worker.js": "/restaurant-search-react-app/service-worker.js",
+    "static/css/main.9fc57bfa.chunk.css.map": "/restaurant-search-react-app/static/css/main.9fc57bfa.chunk.css.map",
+    "static/media/SearchBar.css": "/restaurant-search-react-app/static/media/background.ad60a492.jpg"
+  }
+}
